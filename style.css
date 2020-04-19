@@ -1,0 +1,51 @@
+.menu {
+    float:left;
+    width:80%;
+    height:20%;
+     background-color:blue;
+  }
+  
+  .mainContent {
+    float:right;
+  
+    width:258px;
+    height:20%;
+     background-color:blue;
+  }
+  .leftPane{
+    width:15%;
+    height:100%;
+}
+.centerPanes{
+    width:70%;
+    height:100%;
+}
+.logo {
+    float:left;
+    width:20%;
+    height:90%;
+        
+  }
+  
+  .title {
+    float:center;
+    vertical-align: top;
+    width:80%;
+    height:60%;
+        
+  }
+  .menu1{
+  float:center;
+  vertical-align: bottom;
+  width:80%;
+  height:30%;
+  float:right;	
+  }
+  .a{
+    color:red;
+    }
+    .user{
+        width:50%;
+        height:100%;
+        transform:translate(100px,0px);
+    }
